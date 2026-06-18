@@ -1,4 +1,5 @@
 # Python-Exercises and Assignments
+
 🐍 Python Programming Fundamentals
 
 A comprehensive collection of Python programming concepts, examples, and hands-on exercises covering core programming, Object-Oriented Programming (OOP), File Handling, Exception Handling, Database Connectivity, and NumPy.
